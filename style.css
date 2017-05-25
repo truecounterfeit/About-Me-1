@@ -1,0 +1,17 @@
+h1{
+background-color: blue;
+}
+p{
+  border: 10px solid black;
+  font-size: 20px;
+}
+.page-content {
+  background-color: grey;
+}
+body{
+  background-color: black;
+}
+#unique-p-tag{
+  background-color: purple;
+  font-size: 40px;
+}
